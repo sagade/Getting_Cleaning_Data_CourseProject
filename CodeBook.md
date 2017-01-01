@@ -32,6 +32,3 @@ The following 66 variables are named like the original features and follow a nam
 ## Aggregation
 
 The 50 values of one variable (fearture) per subject and activity were aggregated using the average of the 50 values indicated by the suffix **_averaged** at each variable (to distinguish it from the features of the original data). That leaves a dataset with 68 variables (66 aggregated features) and 180  observations (30 subjects with 6 activities each).
-
-
-- 
